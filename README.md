@@ -5,7 +5,13 @@ connect and log in to school network
 
 python 3.5
 
-首先输入用户名和密码
+初次使用，按照提示输入用户名和密码，生成profiles.json用于保存
 
-输入login登陆，输入logout登出，输入e退出程序
+输入l登陆默认账户
 
+输入数字登陆指定账户
+logout退出登陆
+
+“a 用户名 密码”添加账户
+
+e退出程序
